@@ -6,6 +6,8 @@ pipeline {
         stage("build") { 
         
             steps { 
+                
+                echo 'bulding the changes.....'
             
             }
         }
